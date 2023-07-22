@@ -1,59 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Bootstrap v4 Blog</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on Hugo Bootstrap v4 Blog</description>
+    <title>Posts on 独立开发者博客</title>
+    <link>https://qiefeifei.github.io/posts/</link>
+    <description>Recent content in Posts on 独立开发者博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qiefeifei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a New Theme</title>
-      <link>https://example.org/2014/09/creating-a-new-theme/</link>
+      <link>https://qiefeifei.github.io/2014/09/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2014/09/creating-a-new-theme/</guid>
+      <guid>https://qiefeifei.github.io/2014/09/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme.</description>
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.org/2014/03/migrate-to-hugo-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>独立开发者怎样赚钱？</title>
+      <link>https://qiefeifei.github.io/2023/07/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E6%80%8E%E6%A0%B7%E8%B5%9A%E9%92%B1/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2014/03/migrate-to-hugo-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become</description>
-    </item>
-    
-    <item>
-      <title>我的第一篇博客</title>
-      <link>https://example.org/2018/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/2018/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://example.org/2014/04/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/2014/04/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://example.org/2014/04/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/2014/04/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.</description>
+      <guid>https://qiefeifei.github.io/2023/07/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E6%80%8E%E6%A0%B7%E8%B5%9A%E9%92%B1/</guid>
+      <description>当您作为独立开发者时，有多种方式可以实现收益：
+软件或应用开发：您可以开发自己的软件或应用，并通过销售、内购或广告等方式获得收入。 提供定制开发服务：为公司或个人提供定制开发服务，根据项目的复杂程度和所需时间等因素，灵活计费。 参与开发竞赛或培训：积极参加各类开发竞赛，不仅有机会赢取奖金，还能通过获得培训机会提升自己的技能水平。 在线教育平台授课：在知名的在线教育平台（例如Udemy、Coursera等），制作编程技能课程，分享您的专业知识，并从中获得收入。 撰写博客与发布技术文章：通过撰写有价值的博客和技术文章，吸引读者流量，并从中获取广告收益。 这些方法为独立开发者提供了多样化的赚钱途径，您可以根据自己的技能、兴趣和市场需求选择最适合您的方式。不断提升技能、积极参与社区以及 建立良好的口碑，都有助于拓展您的收入来源。祝您在独立开发的道路上取得丰硕的成果！</description>
     </item>
     
   </channel>
