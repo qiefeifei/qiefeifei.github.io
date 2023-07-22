@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://qiefeifei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://qiefeifei.github.io/2014/09/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://qiefeifei.github.io/2014/09/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme.</description>
-    </item>
-    
-    <item>
       <title>独立开发者怎样赚钱？</title>
       <link>https://qiefeifei.github.io/2023/07/%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E6%80%8E%E6%A0%B7%E8%B5%9A%E9%92%B1/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
